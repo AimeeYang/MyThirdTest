@@ -4,4 +4,5 @@ Today is 07/08/2015.
 1. stage
 2. undo changes
 3. branch
-4. 
+4. branch conflict
+
