@@ -2,3 +2,4 @@ test
 review git knowledge learned on 07/07/2015.
 Today is 07/08/2015.
 1. stage
+2. undo changes
