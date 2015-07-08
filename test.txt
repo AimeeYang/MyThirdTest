@@ -5,4 +5,8 @@ Today is 07/08/2015.
 2. undo changes
 3. branch
 4. branch conflict
-
+5. bug branch, first, you should make sure the bug on which branch, then checkout that branch. 
+	If before you checkout that branch, there are some not-done changes that you haven't commit, 
+	then use 'git stash' command to store it. After bug branch done, restore the stash.
+	You can make several stashs, and use 'git stash apply' and 'git stash drop'. Or use 'git stash pop'(=apply+drop)
+	use 'git stash list' to check stash list.
